@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "generado_en": "2026-10-13T05:35:07+00:00",
+  "vence_en": "2026-10-15T05:59:00+00:00",
+  "fuente": "EJEMPLO - datos ficticios para desarrollo, no son rese\u00f1as reales",
+  "hoteles": [
+    {
+      "slug": "hot-elite",
+      "hotel": "Hotel HOT Elite",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Elite. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Elite. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Elite. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Elite. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Elite. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "hot-insurgentes",
+      "hotel": "Hotel HOT Insurgentes",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Insurgentes. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Insurgentes. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Insurgentes. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Insurgentes. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Insurgentes. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "hot-la-villa",
+      "hotel": "Hotel HOT La Villa",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT La Villa. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT La Villa. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT La Villa. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT La Villa. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT La Villa. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "hot-narvarte",
+      "hotel": "Hotel HOT Narvarte",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Narvarte. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Narvarte. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Narvarte. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Narvarte. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Narvarte. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "hot-nayarit",
+      "hotel": "Hotel HOT Nayarit",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Nayarit. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Nayarit. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Nayarit. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Nayarit. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Nayarit. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "hot-vallejo",
+      "hotel": "Hotel HOT Vallejo",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Vallejo. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Vallejo. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Vallejo. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Vallejo. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Vallejo. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "plaza-belices",
+      "hotel": "Hotel HOT Plaza Belices",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Plaza Belices. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Plaza Belices. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Plaza Belices. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Plaza Belices. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Plaza Belices. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "plaza-camarones",
+      "hotel": "Hotel HOT Plaza Camarones",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Plaza Camarones. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Plaza Camarones. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Plaza Camarones. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Plaza Camarones. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Plaza Camarones. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "slug": "plaza-del-rey",
+      "hotel": "Hotel HOT Plaza Del Rey",
+      "place_id": "EJEMPLO",
+      "url_google": "https://www.google.com/maps",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1000,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Ana G.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 1 para Hotel HOT Plaza Del Rey. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-13"
+        },
+        {
+          "autor": "Luis M.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 2 para Hotel HOT Plaza Del Rey. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-12"
+        },
+        {
+          "autor": "Mariana",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 3 para Hotel HOT Plaza Del Rey. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-11"
+        },
+        {
+          "autor": "Jorge R.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 4 para Hotel HOT Plaza Del Rey. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-10"
+        },
+        {
+          "autor": "Sofia T.",
+          "calificacion": 5,
+          "texto": "Rese\u00f1a de ejemplo 5 para Hotel HOT Plaza Del Rey. Texto ficticio para probar el dise\u00f1o.",
+          "fecha": "2026-10-09"
+        }
+      ]
+    }
+  ]
+}
