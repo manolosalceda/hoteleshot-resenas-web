@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "generado_en": "2026-10-31T16:19:38+00:00",
+  "vence_en": "2026-11-07T16:19:38+00:00",
+  "fuente": "Rese\u00f1as de Google",
+  "hoteles": [
+    {
+      "slug": "hot-elite",
+      "hotel": "Hotel Hot Elite",
+      "place_id": "ChIJzwNqbp750YUR8a83eFVsmyw",
+      "url_google": "https://maps.google.com/maps?cid=3214281873403916273",
+      "calificacion_promedio": 4.8,
+      "total_resenas": 1304,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Manuel G.",
+          "calificacion": 5,
+          "texto": "Me gusto mucho el trato en el sky bar y las bebidas, el d\u00eda de ayer aunque hab\u00eda mucha gente se me fue r\u00e1pido la espera",
+          "fecha": "2026-10-31"
+        },
+        {
+          "autor": "Ameyali M.",
+          "calificacion": 5,
+          "texto": "Excelente hotel, excelentes precios, me encanta",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Fernando M.",
+          "calificacion": 5,
+          "texto": "Excelente lugar y precios.",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Joshua M.",
+          "calificacion": 5,
+          "texto": "Like",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Vector W.",
+          "calificacion": 5,
+          "texto": "Excelente servicio de Sophia, Enrique y C\u00e9sar",
+          "fecha": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "slug": "hot-insurgentes",
+      "hotel": "Hotel HOT Insurgentes",
+      "place_id": "ChIJn-Sx46H50YURJVuO12oqJIc",
+      "url_google": "https://maps.google.com/maps?cid=9737954932653185829",
+      "calificacion_promedio": 4.4,
+      "total_resenas": 3232,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Milagros G.",
+          "calificacion": 5,
+          "texto": "Excelente servicio, personal amable, es un lugar limpio y con un ambiente agradable, espero volver pronto",
+          "fecha": "2026-10-29"
+        },
+        {
+          "autor": "San L.",
+          "calificacion": 5,
+          "texto": "Excelente experiencia",
+          "fecha": "2026-10-28"
+        },
+        {
+          "autor": "edmundo O.",
+          "calificacion": 5,
+          "texto": "Me podr\u00edan dar informaci\u00f3n dw costos para llegar a las 9pm y retirarme a las 9 am",
+          "fecha": "2026-10-28"
+        },
+        {
+          "autor": "Alma M.",
+          "calificacion": 5,
+          "texto": "Super buena",
+          "fecha": "2026-10-23"
+        },
+        {
+          "autor": "Anguy S.",
+          "calificacion": 5,
+          "texto": "De maravilla.",
+          "fecha": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "slug": "hot-la-villa",
+      "hotel": "Hotel HOT La Villa",
+      "place_id": "ChIJFbXDVZ750YUR5aysvlpZG4I",
+      "url_google": "https://maps.google.com/maps?cid=9375185295582735589",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 3262,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Luci M.",
+          "calificacion": 5,
+          "texto": "Muy buen lugar para pasar el rato",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Soy A.",
+          "calificacion": 5,
+          "texto": "Excelente hotel 10/10",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Ricardo R.",
+          "calificacion": 5,
+          "texto": "Todo perfecto",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "El R.",
+          "calificacion": 5,
+          "texto": "Todo muy bien gracias",
+          "fecha": "2026-10-29"
+        },
+        {
+          "autor": "Faby",
+          "calificacion": 5,
+          "texto": "Buena",
+          "fecha": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "slug": "hot-narvarte",
+      "hotel": "Hotel HOT Narvarte",
+      "place_id": "ChIJ9WvsCuL-0YURXHBNL2Hcg68",
+      "url_google": "https://maps.google.com/maps?cid=12647194488550027356",
+      "calificacion_promedio": 4.6,
+      "total_resenas": 2473,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Indira T.",
+          "calificacion": 5,
+          "texto": "Muchas gracias a Claudia por su atenci\u00f3n, de maravilla, muy atenta resolviendo mis dudas!",
+          "fecha": "2026-10-29"
+        },
+        {
+          "autor": "MORENO O.",
+          "calificacion": 5,
+          "texto": "Incre\u00edble atenci\u00f3n, la mejor del mundo.\nClaudia Vega \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+          "fecha": "2026-10-28"
+        },
+        {
+          "autor": "Nelly M.",
+          "calificacion": 5,
+          "texto": "Excelente",
+          "fecha": "2026-10-27"
+        },
+        {
+          "autor": "Mondrag\u00f3n E.",
+          "calificacion": 5,
+          "texto": "Muy recomendado",
+          "fecha": "2026-10-25"
+        },
+        {
+          "autor": "Gabriel A.",
+          "calificacion": 5,
+          "texto": "Muy buen servicio",
+          "fecha": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "slug": "hot-nayarit",
+      "hotel": "Hotel HOT Nayarit",
+      "place_id": "ChIJpUH5KT750YURbDKFlstxo0Y",
+      "url_google": "https://maps.google.com/maps?cid=5090037123076403820",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 1399,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Jos\u00e9 G.",
+          "calificacion": 5,
+          "texto": "Todo excelente",
+          "fecha": "2026-10-27"
+        },
+        {
+          "autor": "Edgardo C.",
+          "calificacion": 5,
+          "texto": "Muy buen servicio",
+          "fecha": "2026-10-25"
+        },
+        {
+          "autor": "Roberto M.",
+          "calificacion": 5,
+          "texto": "Excelente",
+          "fecha": "2026-10-19"
+        },
+        {
+          "autor": "Cesar G.",
+          "calificacion": 5,
+          "texto": "Buena experiencias",
+          "fecha": "2026-10-06"
+        },
+        {
+          "autor": "Rodrigo M.",
+          "calificacion": 5,
+          "texto": "Un lugar muy limpio,y la atenci\u00f3n excelente,muchas privacidad lo recomiendo al \ud83d\udcaf",
+          "fecha": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "slug": "hot-vallejo",
+      "hotel": "Hotel HOT Vallejo",
+      "place_id": "ChIJC_yANv740YURKXjaf7MywUM",
+      "url_google": "https://maps.google.com/maps?cid=4882239217571887145",
+      "calificacion_promedio": 4.3,
+      "total_resenas": 1393,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Cristian",
+          "calificacion": 5,
+          "texto": "La atenci\u00f3n fue buena pero la \u00fanica cosa que no me qued\u00f3 claro es que cuando accedemos a la habitaci\u00f3n no ven\u00eda incluido el control de la televisi\u00f3n no s\u00e9 si es que no lo incluyan o lo tenemos que pedir en recepci\u00f3n",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Klaudia L.",
+          "calificacion": 5,
+          "texto": "Excelente servicio del Carlos",
+          "fecha": "2026-10-01"
+        },
+        {
+          "autor": "Yisuss 5.",
+          "calificacion": 5,
+          "texto": "Muy bien muy limpio, privado, si pusieran chanclas o un tapete para no resbalar ser\u00eda ideal",
+          "fecha": "2026-09-25"
+        },
+        {
+          "autor": "TREJO G.",
+          "calificacion": 5,
+          "texto": "Muy buen lugar!",
+          "fecha": "2026-09-22"
+        },
+        {
+          "autor": "Gabriel 0.",
+          "calificacion": 5,
+          "texto": "Toso bien",
+          "fecha": "2026-09-19"
+        }
+      ]
+    },
+    {
+      "slug": "plaza-belices",
+      "hotel": "Hotel HOT Plaza Belices",
+      "place_id": "ChIJHUMfYOcc0oURO7Bi0Nlhj-A",
+      "url_google": "https://maps.google.com/maps?cid=16181259574297407547",
+      "calificacion_promedio": 4.4,
+      "total_resenas": 1752,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Dulce I.",
+          "calificacion": 5,
+          "texto": "La atenci\u00f3n por el personal de recepci\u00f3n en especifico por la se\u00f1orita Alejandra es atenta y amable.",
+          "fecha": "2026-10-24"
+        },
+        {
+          "autor": "Luis V.",
+          "calificacion": 5,
+          "texto": "La atenci\u00f3n de la se\u00f1orita Alejandra excelente \ud83d\ude03",
+          "fecha": "2026-10-24"
+        },
+        {
+          "autor": "Gisela G.",
+          "calificacion": 5,
+          "texto": "La se\u00f1orita Alejandra tuvo una excelente atenci\u00f3n \ud83c\udf39",
+          "fecha": "2026-10-24"
+        },
+        {
+          "autor": "cagni",
+          "calificacion": 5,
+          "texto": "Buen servicio, habitaci\u00f3n limpias, descanse muy bien. Todo en orden, gracias",
+          "fecha": "2026-10-23"
+        },
+        {
+          "autor": "Barbara D.",
+          "calificacion": 5,
+          "texto": "Exelente servicio , todo el personal muy amable\nLa c\u00f3mida exelente , muy limpio  fue muy agradable mi estancia se los recomiendo al 1000  jeje \ud83e\udd0d\ud83e\udef6\ud83c\udffb",
+          "fecha": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "slug": "plaza-camarones",
+      "hotel": "Hotel HOT Plaza Camarones",
+      "place_id": "ChIJRRkbRI740YURnZYXk5rU94E",
+      "url_google": "https://maps.google.com/maps?cid=9365187710498084509",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 2364,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Angie L.",
+          "calificacion": 5,
+          "texto": "Muy limpio y buen comedor",
+          "fecha": "2026-10-31"
+        },
+        {
+          "autor": "Vanessa S.",
+          "calificacion": 5,
+          "texto": "Excelente lugar, muy buena atenci\u00f3n, super limpio \u2728",
+          "fecha": "2026-10-31"
+        },
+        {
+          "autor": "Giovanni N.",
+          "calificacion": 5,
+          "texto": "Excelente servicio",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Anel C.",
+          "calificacion": 5,
+          "texto": "Excelente atenci\u00f3n",
+          "fecha": "2026-10-30"
+        },
+        {
+          "autor": "Silvia M.",
+          "calificacion": 5,
+          "texto": "Excelente atenci\u00f3n de Yaz y Mary... Gracias",
+          "fecha": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "slug": "plaza-del-rey",
+      "hotel": "Hotel HOT Plaza Del Rey",
+      "place_id": "ChIJMWQ5tnj40YUR8hiCruOsjj4",
+      "url_google": "https://maps.google.com/maps?cid=4507730370929760498",
+      "calificacion_promedio": 4.5,
+      "total_resenas": 3052,
+      "resenas_completas": true,
+      "resenas": [
+        {
+          "autor": "Brenda C.",
+          "calificacion": 5,
+          "texto": "Buena experiencia",
+          "fecha": "2026-10-31"
+        },
+        {
+          "autor": "Fernando H.",
+          "calificacion": 5,
+          "texto": "Tuve una estancia agradable",
+          "fecha": "2026-10-28"
+        },
+        {
+          "autor": "Brenda C.",
+          "calificacion": 5,
+          "texto": "Exelente lugar y servicio, la gente s\u00faper amable, todo super limpio sin duda volveremos \ud83d\ude4f\u2728\ud83d\ude4f",
+          "fecha": "2026-10-27"
+        },
+        {
+          "autor": "Jonathan S.",
+          "calificacion": 5,
+          "texto": "Exelente servicio y atenci\u00f3n",
+          "fecha": "2026-10-25"
+        },
+        {
+          "autor": "Diana M.",
+          "calificacion": 5,
+          "texto": "Excelente atenci\u00f3n,si volver\u00eda a regresar sin problema!",
+          "fecha": "2026-10-25"
+        }
+      ]
+    }
+  ]
+}
